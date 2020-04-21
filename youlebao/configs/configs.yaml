@@ -1,0 +1,12 @@
+sqlServer:
+  host: 192.168.7.250
+  port: 1433
+  user: sa
+  pwd: ych123456.
+  database: YCHMALL
+mySql:
+  host: 59.111.124.211
+  port: 33161
+  user: root
+  pwd: zhMysql6567
+  database: yunyou_goods

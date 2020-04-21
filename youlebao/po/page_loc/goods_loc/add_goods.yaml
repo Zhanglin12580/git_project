@@ -1,0 +1,13 @@
+
+商品: //*[@id="mumu_group100003800"]
+商品管理: //*[@id="pleft_100003800"]
+商品资料: //*[@id="threeleft_100003800"]
+商品资料iframe: //*[contains(@src,"Goods/ProfessionalGoodsList.html")]
+新增: //*[@id="View_BusGoodsBase*0"]/div[2]/div[1]/button[1]
+零售商品: //*[@id="goodsTypeSelectModal"]/div/div/div[2]/div[1]/div[1]
+商品名称: //*[@id="goods-normal-add"]/div/div[1]/div[1]/input
+选择分类: //*[@id="sltNormalGoodsClassAdd"]/div/div/input
+商品分类: //*[@id="sltNormalGoodsClassAdd"]/div/div/ul/li[2]/a
+商品价格: //*[@id="goods-normal-add"]/div/div[3]/div[1]/input
+初始化库存: //*[@id="goods-normal-add"]/div/div[4]/div[1]/input
+保存: //*[@id="btnSaveAdd"]

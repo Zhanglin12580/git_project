@@ -1,0 +1,167 @@
+[2020-04-14 18:55:26,400] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 18:55:26,403] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 18:55:26,403] - root - INFO - 【浏览器】：chrome
+[2020-04-14 18:55:26,575] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 18:55:27,577] - root - INFO - 【等待】:1秒
+[2020-04-14 18:55:37,911] - root - INFO - 【异常截图路径】：E:\youlebao_selenium\youlebao\test_report\screen\2020-04-14 18-55-37 test_001_goods_case.png
+[2020-04-14 18:55:37,911] - root - INFO - 【用例运行时长】: 11.510903638秒
+[2020-04-14 18:55:37,912] - root - INFO - ====================【goods_case测试用例结束】====================
+[2020-04-14 18:57:03,401] - root - INFO - ============【Leaguer_Level_Case测试用例开始】====================
+[2020-04-14 18:57:03,403] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 18:57:03,403] - root - INFO - 【浏览器】：chrome
+[2020-04-14 18:57:03,573] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 18:57:04,573] - root - INFO - 【等待】:1秒
+[2020-04-14 18:57:04,625] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 18:57:04,673] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 18:57:04,722] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 18:57:06,723] - root - INFO - 【等待】:2秒
+[2020-04-14 18:57:06,723] - root - INFO - 【默认登录成功】
+[2020-04-14 18:57:06,891] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100001100"]
+[2020-04-14 18:57:06,941] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100001100"]
+[2020-04-14 18:57:07,942] - root - INFO - 【等待】:1秒
+[2020-04-14 18:57:08,073] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="left_100001100"]
+[2020-04-14 18:57:08,105] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"LgLeveSet.html")]
+[2020-04-14 18:57:10,106] - root - INFO - 【等待】:2秒
+[2020-04-14 18:57:10,198] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="btnAdd"]
+[2020-04-14 18:57:10,464] - root - INFO - 【输入】：atuo级别 , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 18:57:10,563] - root - INFO - 【清空并输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="txtRejoinMoney"]
+[2020-04-14 18:57:10,649] - root - INFO - 【清空并输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="txtSupplementCardMoney"]
+[2020-04-14 18:57:10,733] - root - INFO - 【清空并输入】：2 , 定位方式：xpath , 定位表达式：//*[@id="txtHeapcentExpireTime"]
+[2020-04-14 18:57:10,815] - root - INFO - 【清空并输入】：1 , 定位方式：xpath , 定位表达式：//*[@id="txtUnJoinRent"]
+[2020-04-14 18:57:10,893] - root - INFO - 【清空并输入】：2 , 定位方式：xpath , 定位表达式：//*[@id="txtChangeMoney"]
+[2020-04-14 18:57:10,934] - root - INFO - 【输入】：备注1 , 定位方式：xpath , 定位表达式：//*[@id="txtSumary"]
+[2020-04-14 18:57:12,934] - root - INFO - 【等待】:2秒
+[2020-04-14 18:57:13,009] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="btnSave"]
+[2020-04-14 18:57:21,382] - root - INFO - 【获取元素文本】： 定位方式：xpath ， 定位表达式：//*[@id="alert"]
+[2020-04-14 19:02:19,248] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 19:02:19,251] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 19:02:19,251] - root - INFO - 【浏览器】：chrome
+[2020-04-14 19:02:19,434] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 19:02:20,435] - root - INFO - 【等待】:1秒
+[2020-04-14 19:02:20,488] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 19:02:20,542] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 19:02:20,599] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 19:02:22,601] - root - INFO - 【等待】:2秒
+[2020-04-14 19:02:22,601] - root - INFO - 【默认登录成功】
+[2020-04-14 19:02:32,902] - root - INFO - 【异常截图路径】：E:\youlebao_selenium\youlebao\test_report\screen\2020-04-14 19-02-32 test_001_goods_case.png
+[2020-04-14 19:02:32,903] - root - INFO - 【用例运行时长】: 13.654347318000001秒
+[2020-04-14 19:02:32,903] - root - INFO - ====================【goods_case测试用例结束】====================
+[2020-04-14 19:29:46,707] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 19:29:46,710] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 19:29:46,711] - root - INFO - 【浏览器】：chrome
+[2020-04-14 19:29:46,893] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 19:29:47,893] - root - INFO - 【等待】:1秒
+[2020-04-14 19:29:55,726] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 19:29:55,776] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 19:29:55,834] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 19:29:57,836] - root - INFO - 【等待】:2秒
+[2020-04-14 19:29:57,836] - root - INFO - 【默认登录成功】
+[2020-04-14 19:31:37,287] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 19:31:37,290] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 19:31:37,290] - root - INFO - 【浏览器】：chrome
+[2020-04-14 19:31:37,466] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 19:31:38,467] - root - INFO - 【等待】:1秒
+[2020-04-14 19:32:06,572] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 19:32:07,410] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 19:32:07,985] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 19:32:11,057] - root - INFO - 【等待】:2秒
+[2020-04-14 19:32:12,495] - root - INFO - 【默认登录成功】
+[2020-04-14 19:32:33,349] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100003800"]
+[2020-04-14 19:32:36,792] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100003800"]
+[2020-04-14 19:32:41,098] - root - INFO - 【等待】:2秒
+[2020-04-14 19:32:45,470] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="threeleft_100003800"]
+[2020-04-14 19:32:49,279] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"Goods/ProfessionalGoodsList.html")]
+[2020-04-14 19:33:06,263] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="View_BusGoodsBase*0"]/div[2]/div[1]/button[1]
+[2020-04-14 19:33:09,862] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="goodsTypeSelectModal"]/div/div/div[2]/div[1]/div[1]
+[2020-04-14 19:33:14,704] - root - INFO - 【输入】：牛刀小试 , 定位方式：xpath , 定位表达式：//*[@id="goods-normal-add"]/div/div[1]/div[1]/input
+[2020-04-14 19:33:38,524] - root - INFO - 【异常截图路径】：E:\youlebao_selenium\youlebao\test_report\screen\2020-04-14 19-33-38 test_001_goods_case.png
+[2020-04-14 19:33:38,525] - root - INFO - 【用例运行时长】: 121.23758683599999秒
+[2020-04-14 19:33:38,525] - root - INFO - ====================【goods_case测试用例结束】====================
+[2020-04-14 21:19:56,255] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 21:19:56,257] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 21:19:56,257] - root - INFO - 【浏览器】：chrome
+[2020-04-14 21:19:56,442] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 21:19:57,442] - root - INFO - 【等待】:1秒
+[2020-04-14 21:19:57,494] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 21:19:57,543] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 21:19:57,597] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 21:19:59,598] - root - INFO - 【等待】:2秒
+[2020-04-14 21:19:59,598] - root - INFO - 【默认登录成功】
+[2020-04-14 21:19:59,766] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100003800"]
+[2020-04-14 21:19:59,815] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100003800"]
+[2020-04-14 21:20:01,815] - root - INFO - 【等待】:2秒
+[2020-04-14 21:20:02,672] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="threeleft_100003800"]
+[2020-04-14 21:20:02,843] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"Goods/ProfessionalGoodsList.html")]
+[2020-04-14 21:20:03,216] - root - INFO - 【异常截图路径】：E:\youlebao_selenium\youlebao\test_report\screen\2020-04-14 21-20-02 test_001_goods_case.png
+[2020-04-14 21:20:03,216] - root - INFO - 【用例运行时长】: 6.960367324秒
+[2020-04-14 21:20:03,216] - root - INFO - ====================【goods_case测试用例结束】====================
+[2020-04-14 21:33:51,158] - root - INFO - ============【Leaguer_Level_Case测试用例开始】====================
+[2020-04-14 21:33:51,160] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 21:33:51,161] - root - INFO - 【浏览器】：chrome
+[2020-04-14 21:33:51,329] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 21:33:52,331] - root - INFO - 【等待】:1秒
+[2020-04-14 21:33:55,372] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 21:33:55,415] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 21:33:55,471] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 21:33:57,472] - root - INFO - 【等待】:2秒
+[2020-04-14 21:33:57,472] - root - INFO - 【默认登录成功】
+[2020-04-14 21:34:11,522] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100001100"]
+[2020-04-14 21:34:11,577] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100001100"]
+[2020-04-14 21:34:12,579] - root - INFO - 【等待】:1秒
+[2020-04-14 21:34:12,717] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="left_100001100"]
+[2020-04-14 21:34:12,772] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"LgLeveSet.html")]
+[2020-04-14 21:34:14,773] - root - INFO - 【等待】:2秒
+[2020-04-14 21:34:21,056] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="btnAdd"]
+[2020-04-14 21:34:35,895] - root - INFO - 【输入】：atuo级别 , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 21:34:38,173] - root - INFO - 【清空并输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="txtRejoinMoney"]
+[2020-04-14 21:34:39,420] - root - INFO - 【清空并输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="txtSupplementCardMoney"]
+[2020-04-14 21:34:40,879] - root - INFO - 【清空并输入】：2 , 定位方式：xpath , 定位表达式：//*[@id="txtHeapcentExpireTime"]
+[2020-04-14 21:34:43,415] - root - INFO - 【清空并输入】：1 , 定位方式：xpath , 定位表达式：//*[@id="txtUnJoinRent"]
+[2020-04-14 21:34:52,814] - root - INFO - 【清空并输入】：2 , 定位方式：xpath , 定位表达式：//*[@id="txtChangeMoney"]
+[2020-04-14 21:44:16,539] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 21:44:16,543] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 21:44:16,543] - root - INFO - 【浏览器】：chrome
+[2020-04-14 21:44:16,723] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 21:44:17,724] - root - INFO - 【等待】:1秒
+[2020-04-14 21:44:19,955] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 21:44:20,001] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 21:44:20,056] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 21:44:22,057] - root - INFO - 【等待】:2秒
+[2020-04-14 21:44:22,057] - root - INFO - 【默认登录成功】
+[2020-04-14 21:44:27,377] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100003800"]
+[2020-04-14 21:44:28,575] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100003800"]
+[2020-04-14 21:44:32,241] - root - INFO - 【等待】:2秒
+[2020-04-14 21:44:34,277] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="threeleft_100003800"]
+[2020-04-14 21:44:37,971] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"Goods/ProfessionalGoodsList.html")]
+[2020-04-14 21:44:44,146] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="View_BusGoodsBase*0"]/div[2]/div[1]/button[1]
+[2020-04-14 21:44:45,694] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="goodsTypeSelectModal"]/div/div/div[2]/div[1]/div[1]
+[2020-04-14 21:44:47,711] - root - INFO - 【输入】：牛刀小试 , 定位方式：xpath , 定位表达式：//*[@id="goods-normal-add"]/div/div[1]/div[1]/input
+[2020-04-14 21:44:50,913] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="sltNormalGoodsClassAdd"]/div/div/input
+[2020-04-14 21:44:53,785] - root - INFO - 【等待】:1秒
+[2020-04-14 21:44:54,181] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="sltNormalGoodsClassAdd"]/div/div/ul/li[2]/a
+[2020-04-14 21:48:29,127] - root - INFO - ============【goods_case测试用例开始】====================
+[2020-04-14 21:48:29,130] - root - INFO - 【操作系统】：Windows-10-10.0.14393-SP0
+[2020-04-14 21:48:29,131] - root - INFO - 【浏览器】：chrome
+[2020-04-14 21:48:29,308] - root - INFO - 【打开URL】：http://localhost:9966/admin/
+[2020-04-14 21:48:30,308] - root - INFO - 【等待】:1秒
+[2020-04-14 21:48:32,054] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtName"]
+[2020-04-14 21:48:32,101] - root - INFO - 【输入】：admin , 定位方式：xpath , 定位表达式：//*[@id="txtPwd"]
+[2020-04-14 21:48:32,157] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="fm-login-submit"]
+[2020-04-14 21:48:34,159] - root - INFO - 【等待】:2秒
+[2020-04-14 21:48:34,159] - root - INFO - 【默认登录成功】
+[2020-04-14 21:48:36,410] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="mumu_group100003800"]
+[2020-04-14 21:48:36,911] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="pleft_100003800"]
+[2020-04-14 21:48:39,367] - root - INFO - 【等待】:2秒
+[2020-04-14 21:48:40,356] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="threeleft_100003800"]
+[2020-04-14 21:48:41,416] - root - INFO - 【切换iframe】,iframe表达式：//*[contains(@src,"Goods/ProfessionalGoodsList.html")]
+[2020-04-14 21:48:44,703] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="View_BusGoodsBase*0"]/div[2]/div[1]/button[1]
+[2020-04-14 21:48:45,441] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="goodsTypeSelectModal"]/div/div/div[2]/div[1]/div[1]
+[2020-04-14 21:48:49,944] - root - INFO - 【输入】：牛刀小试 , 定位方式：xpath , 定位表达式：//*[@id="goods-normal-add"]/div/div[1]/div[1]/input
+[2020-04-14 21:48:50,603] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="sltNormalGoodsClassAdd"]/div/div/input
+[2020-04-14 21:48:52,389] - root - INFO - 【等待】:1秒
+[2020-04-14 21:48:53,921] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="sltNormalGoodsClassAdd"]/div/div/ul/li[2]/a
+[2020-04-14 21:48:56,268] - root - INFO - 【输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="goods-normal-add"]/div/div[3]/div[1]/input
+[2020-04-14 21:49:00,046] - root - INFO - 【输入】：10 , 定位方式：xpath , 定位表达式：//*[@id="goods-normal-add"]/div/div[4]/div[1]/input
+[2020-04-14 21:49:15,553] - root - INFO - 【点击元素】:  定位方式：xpath ， 定位表达式：//*[@id="btnSaveAdd"]
+[2020-04-14 21:49:22,953] - root - INFO - 【用例运行时长】: 53.82591705秒
+[2020-04-14 21:49:22,954] - root - INFO - ====================【goods_case测试用例结束】====================
